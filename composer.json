@@ -1,0 +1,13 @@
+{
+  "name": "derrickleemy/passport-token-decoder",
+  "description": "Dirty Decoder for Laravel Passport (Bearer) Access Token ",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.3"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
